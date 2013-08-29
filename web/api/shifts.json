@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Frühschicht",
+        "department": "kitchen",
+        "numberOfEmployees": 2,
+        "start": "08 29, 2013 07:30",
+        "end": "08 29, 2013 15:00"
+    },
+    {
+        "id": 2,
+        "department": "kitchen",
+        "name": "Spätschicht",
+        "numberOfEmployees": 3,
+        "start": "08 29, 2013 15:00",
+        "end": "08 29, 2013 21:30"
+    },
+    {
+        "id": 3,
+        "name": "Frühschicht",
+        "department": "service",
+        "numberOfEmployees": 3,
+        "start": "08 29, 2013 09:00",
+        "end": "08 29, 2013 16:30"
+    },
+    {
+        "id": 4,
+        "department": "service",
+        "name": "Spätschicht",
+        "numberOfEmployees": 4,
+        "start": "08 29, 2013 16:30",
+        "end": "08 29, 2013 23:00"
+    },
+    {
+        "id": 5,
+        "department": "door",
+        "name": "Spätschicht",
+        "numberOfEmployees": 2,
+        "start": "08 29, 2013 17:30",
+        "end": "08 29, 2013 23:30"
+    }
+]

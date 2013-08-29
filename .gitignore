@@ -1,0 +1,7 @@
+# Eclipse
+/.settings
+/.buildpath
+/.project
+
+# PhPStorm
+.idea/

@@ -1,0 +1,53 @@
+BODY {
+    font-family: arial;
+}
+.calendar {
+    margin-bottom: 20px;
+}
+.calendar TABLE {
+    border-collapse: collapse;
+}
+.calendar TH, .calendar TD {
+    border: 1px dashed black;
+}
+.calendar .department-lane {
+    width: 720px;
+    height: 20px;
+    padding: 5px 0;
+    position: relative;
+}
+.calendar .shift {
+    position: absolute;
+    border-radius: 15px;
+    text-align: center;
+    background-color: grey;
+    color: white;
+    cursor: move;
+    height: 20px;
+    line-height: 20px;
+}
+.calendar .incomplete {
+    background-color: indianred;
+}
+.calendar .ui-resizable-handle {
+    width: 15px;
+}
+.calendar .ui-resizable-w {
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    left: 0;
+}
+.calendar .ui-resizable-e {
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    right: 0;
+}
+.calendar .service .ui-resizable-handle {
+    background-color: blue;
+}
+.calendar .kitchen .ui-resizable-handle {
+    background-color: orange;
+}
+.calendar .door .ui-resizable-handle {
+    background-color: yellow;
+}
