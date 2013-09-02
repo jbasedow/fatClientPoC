@@ -40,6 +40,7 @@
 
         <script type="text/javascript" src="/js/vendor/jquery-1.10.2.js"></script>
         <script type="text/javascript" src="/js/vendor/jquery-ui-1.10.3.custom.min.js"></script>
+        <script type="text/javascript" src="/js/vendor/jquery.ui.touch-punch.js"></script>
         <script type="text/javascript" src="/js/vendor/underscore.js"></script>
         <script type="text/javascript" src="/js/vendor/backbone.js"></script>
         <script type="text/javascript" src="/js/main.js"></script>

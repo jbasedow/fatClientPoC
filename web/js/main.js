@@ -99,8 +99,7 @@ function applayBehaviour() {
     $('.shift').draggable({
         axis: "x",
         containment: "parent",
-        grid: [25, 0],
-    //    handle: ".drag-handle",
+//        grid: [25, 0],
         start: function() {
             console.log('started dragging at ' + $(this).css('left'));
         },
