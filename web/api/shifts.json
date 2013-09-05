@@ -2,40 +2,50 @@
     {
         "id": 1,
         "name": "Frühschicht",
-        "department": "kitchen",
-        "numberOfEmployees": 2,
+        "department": {
+           "name": "kitchen"
+        },
+        "num_employees": 2,
         "start": "08/29/2013 07:30:00",
         "end": "08/29/2013 15:00:00"
     },
     {
         "id": 2,
-        "department": "kitchen",
+        "department": {
+           "name": "kitchen"
+        },
         "name": "Spätschicht",
-        "numberOfEmployees": 3,
+        "num_employees": 3,
         "start": "08/29/2013 15:00:00",
         "end": "08/29/2013 21:30:00"
     },
     {
         "id": 3,
         "name": "Frühschicht",
-        "department": "service",
-        "numberOfEmployees": 3,
+        "department": {
+           "name": "service"
+        },
+        "num_employees": 3,
         "start": "08/29/2013 09:00:00",
         "end": "08/29/2013 16:30:00"
     },
     {
         "id": 4,
-        "department": "service",
+        "department": {
+           "name": "service"
+        },
         "name": "Spätschicht",
-        "numberOfEmployees": 4,
+        "num_employees": 4,
         "start": "08/29/2013 16:30:00",
         "end": "08/29/2013 23:00:00"
     },
     {
         "id": 5,
-        "department": "door",
+        "department": {
+           "name": "door"
+        },
         "name": "Spätschicht",
-        "numberOfEmployees": 2,
+        "num_employees": 2,
         "start": "08/29/2013 17:30:00",
         "end": "08/29/2013 23:30:00"
     }

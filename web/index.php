@@ -43,6 +43,9 @@
         <script type="text/javascript" src="/js/vendor/jquery.ui.touch-punch.js"></script>
         <script type="text/javascript" src="/js/vendor/underscore.js"></script>
         <script type="text/javascript" src="/js/vendor/backbone.js"></script>
+        <script type="text/javascript" src="/js/app/model/shift.js"></script>
+        <script type="text/javascript" src="/js/app/view/shiftCalendar.js"></script>
+        <script type="text/javascript" src="/js/app/view/shiftTable.js"></script>
         <script type="text/javascript" src="/js/main.js"></script>
      </body>
 </html>
